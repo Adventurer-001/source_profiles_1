@@ -1,5 +1,5 @@
 # About This Repository
-**This repository contains all source profiles regarding our academic work, and here is one preview of this repository:<br>**
+**This repository contains all source profiles regarding our academic work, and here is one preview in this repository:<br>**
 
 ![image](./figures/1.png)
 
