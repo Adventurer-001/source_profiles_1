@@ -5,7 +5,7 @@ This repository contains all source profiles regarding our academic work, and he
 
 
 <center class="half">
-    <img src="./figures/1.png" width="200"/><img src="./figures/2.png" width="200"/>
+    <img src="./figures/1.png" height="500"/><img src="./figures/2.png" height="500"/>
 </center>
 
 # Citation:
