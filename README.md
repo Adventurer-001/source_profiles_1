@@ -1,9 +1,9 @@
 # About This Repository
 **This repository contains all source profiles regarding our academic work, and here are two previews of this repository:<br>**
 ![image](./figures/1.png)<br>
-<div align=center>
-<img src="./figures/2.png" width="600" /><br>
-<img src="./figures/3.png" height="200" /><img src="./figures/4.png" height="200" /><br>
+<img src="./figures/2.png" width="700" />
+<div align=right>
+<img src="./figures/3.png" height="200" /><br><img src="./figures/4.png" height="200" />
 </div>
 
 # Citation:
