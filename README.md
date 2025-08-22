@@ -1,8 +1,6 @@
 # About This Repository
 This repository contains all source profiles regarding our academic work, and here are two previews of this repository:
-![image](./figures/1.png)
-
-![image](./figures/2.png)
+![image](./figures/1.png)![image](./figures/2.png)
 
 # Citation:
 If anything of this repository is helpful on your academic research, we'll be definitely flattered. And we'd appreciate it if you could cite this work:<br>
