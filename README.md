@@ -1,11 +1,11 @@
 # About This Repository
-This repository contains all source profiles regarding our academic work, and here are two previews of this project:
+This repository contains all source profiles regarding our academic work, and here are two previews of this repository:
 ![image](./figures/1.png)
 
-<img src="./figures/2.png" height="400px" width="600px">
+![image](./figures/2.png)
 
 # Citation:
-If this project assists you in your academic research, we'll be flattered. And we'd appreciate it if you could cite this work:
+If anything of this repository is helpful on your academic research, we'll be definitely flattered. And we'd appreciate it if you could cite this work:<br>
 **Coming Soon...**
 
 # Acknowledgements:
