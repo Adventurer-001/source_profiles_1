@@ -2,7 +2,7 @@
 This repository contains all source profiles regarding our academic work, and here are two previews of this project:
 ![image](./figures/1.png)
 
-![image](./figures/2.png)
+![image](./figures/2.png =100x100)
 
 # Citation:
 If this project assists you in your academic research, we'll be flattered. And we'd appreciate it if you could cite this work:
