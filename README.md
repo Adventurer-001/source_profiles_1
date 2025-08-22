@@ -1,3 +1,4 @@
+<font size="10">
 # About This Repository
 This repository contains all source profiles regarding our academic work, and here are two previews of this repository:
 ![image](./figures/1.png)
