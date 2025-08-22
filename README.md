@@ -1,10 +1,11 @@
-# About This Repository
+# About This Repository:
 **This repository contains all source profiles regarding our academic work, and here is one preview in this repository:<br>**
 
 ![image](./figures/1.png)
 
-# Citation:
+# Citations:
 **If anything of this repository is helpful on your academic research, we'll be definitely flattered. And we'd appreciate it if you could cite this work:<br>**
+
 ***Coming Soon...***
 
 # Acknowledgements:
