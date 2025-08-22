@@ -1,7 +1,7 @@
 # About This Repository
-**This repository contains all source profiles regarding our academic work, and here are two previews of this repository:<br>**
-![image](./figures/1.png)<br>
-<img src="./figures/2.png" height="300" /><div align=right><img src="./figures/3.png" height="150" /><br><img src="./figures/4.png" height="150" /></div>
+**This repository contains all source profiles regarding our academic work, and here is one preview of this repository:<br>**
+
+![image](./figures/1.png)
 
 # Citation:
 **If anything of this repository is helpful on your academic research, we'll be definitely flattered. And we'd appreciate it if you could cite this work:<br>**
