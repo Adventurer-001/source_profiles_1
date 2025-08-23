@@ -5,8 +5,8 @@
 
 # Citations:
 **If anything of this repository is helpful on your academic research, we'll be definitely flattered. And we'd appreciate it if you could cite this work:<br>**
-
-***Coming Soon...***
+**[1] Wang, W.: Adventurer-001/source_profiles_1: source_profiles_1. Zenodo. (2025). https://doi.org/10.5281/zenodo.16929735<br>**
+**[2] Article: ***Coming Soon...*** <br>**
 
 # Acknowledgements:
 **[1] The ESP values related to this repository were calculated by the mep.py script developed by Dr. Marius Retegan (Available at: https://gist.github.com/mretegan/5501553). We genuinely express our greatest gratitude to Dr. Marius Retegan.<br>**
